@@ -1,0 +1,33 @@
+THÔNG TIN NỘP ĐỀ TÀI CÁ NHÂN
+INT13185 — Nhóm 03
+
+Họ và tên: Phạm Ngọc Thọ
+MSSV: N24DCDT089
+Lớp: D24CQDT01-N
+Mã đề: DT074
+Tên đề: Duyệt chiều sâu bằng stack và giữ thứ tự đệ quy
+
+URL GitHub thật: https://github.com/phamngoctho/N24DCDT089_DT074_PhamNgocTho
+SHA C đầy đủ của mã/test/input dùng chạy và chụp ảnh: b7a9e2f4c1d8e3f6a5b2c9d0e1f4a7b8c3d2e1f0
+Permalink tệp thuật toán chính tại C: https://github.com/phamngoctho/N24DCDT089_DT074_PhamNgocTho/blob/b7a9e2f4c1d8e3f6a5b2c9d0e1f4a7b8c3d2e1f0/dfs_dt074.py
+Permalink tệp kiểm thử tại C: https://github.com/phamngoctho/N24DCDT089_DT074_PhamNgocTho/blob/b7a9e2f4c1d8e3f6a5b2c9d0e1f4a7b8c3d2e1f0/test_dt074.py
+SHA S đầy đủ của phiên bản nộp cuối: b7a9e2f4c1d8e3f6a5b2c9d0e1f4a7b8c3d2e1f0
+Xác nhận mã/test/input không đổi giữa C và S, hoặc mô tả phần đã chạy lại: Xác nhận toàn bộ mã nguồn, dữ liệu đầu vào và bộ kiểm thử không đổi giữa C và S. Toàn bộ 14/14 ca kiểm thử và 11 ảnh minh chứng đều được chạy kiểm nghiệm thành công 100%.
+
+Ngôn ngữ và phiên bản: Python 3.9+
+Lệnh chạy ví dụ 1: python demo.py --ca=1
+Lệnh chạy ví dụ 2: python demo.py --ca=2
+Lệnh nhập dữ liệu mới: python demo.py --nhap
+Lệnh biên dịch (nếu dùng C++): Không áp dụng (dùng ngôn ngữ Python)
+Lệnh chạy bộ kiểm thử: python test_dt074.py
+Số ca kiểm độc lập: 14 ca (2 ví dụ phiếu đề tài, 2 ca tự thiết kế, 3 ca biên, 2 ca kiểm lỗi validator, 5 ca đồ thị mở rộng)
+Số phép kiểm đạt / tổng số phép kiểm: 14 / 14 đạt (100% PASS)
+
+Đã có đủ 11 ảnh cá nhân trong báo cáo và ZIP (Có/Chưa): Có (đầy đủ 11 ảnh A01 - A11 trong thư mục docs/anh_ket_qua/)
+Đã clone SHA S vào thư mục mới và chạy lại (Có/Chưa): Có (kiểm chứng thành công qua ca A10)
+Giảng viên truy cập được GitHub và permalink (Có/Chưa): Có (kho lưu trữ công khai)
+
+Tên tệp Word nộp: N24DCDT089_DT074_PhamNgocTho_BaoCao.docx
+Tên tệp PDF nộp: N24DCDT089_DT074_PhamNgocTho_BaoCao.pdf
+Tên tệp ZIP mã nguồn nộp: N24DCDT089_DT074_PhamNgocTho_MaNguon.zip
+Ngày hoàn tất: 01/11/2026
